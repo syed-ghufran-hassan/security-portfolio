@@ -266,3 +266,7 @@ contract RFQ_Attacker_Wins_E2E is Test {
     }
 }
 ```
+
+**From Protocol Team**
+
+https://github.com/Kann-Audits/Octarine-Audit/issues/10
